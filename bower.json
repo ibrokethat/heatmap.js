@@ -1,0 +1,19 @@
+{
+  "name": "heatmap.js",
+  "version": "1.0",
+  "main": "src/heatmap.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "demo",
+    "tests",
+    "website",
+    "*.md"
+  ],
+  "devDependencies": {},
+  "keywords": [
+    "heatmap",
+    "javascript",
+    "library"
+  ]
+}
